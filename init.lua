@@ -1,5 +1,5 @@
 --
--- SjoCi's dice init file
+-- item generation init file
 --
 
 require("ts3init")
